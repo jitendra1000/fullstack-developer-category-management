@@ -1,1 +1,21 @@
-# fullstack-developer-category-management
+-Women
+    - Clothing
+        - Dresss
+            - Causal Dresses
+            - Party Dresses
+    - T-Shirts
+        - Printed T-shirts
+        - Causal T-Shirts
+        - Plain T-Shirts
+-Men
+    - Footwear
+        - Branded
+        - Non Branded
+    - T-Shirts
+        - Printed T-shirts
+        - Causal T-Shirts
+        - Plain T-Shirts
+    - Shirts
+        - Party Shirts
+        - Causal Shirts
+        - Plain Shirts
